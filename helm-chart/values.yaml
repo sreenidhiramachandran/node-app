@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: rinshad11/nodeapp00
+  repository: ansil1599/nodeapp-ansil
   tag: latest
   pullPolicy: IfNotPresent
 
